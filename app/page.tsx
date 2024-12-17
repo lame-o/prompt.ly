@@ -68,7 +68,7 @@ export default function PromptImprover() {
                 <h3 className="text-xl font-semibold mb-3 text-white">
                   Your Polished Prompt:
                 </h3>
-                <p className="text-white whitespace-pre-wrap text-lg">
+                <p className="text-gray-800 whitespace-pre-wrap text-lg">
                   {improvedPrompt}
                 </p>
               </div>
